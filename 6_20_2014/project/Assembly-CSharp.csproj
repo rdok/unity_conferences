@@ -46,8 +46,9 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\scripts\destroyObject.cs" />
-     <Compile Include="Assets\scripts\rotate.cs" />
+     <Compile Include="Assets\Scripts\CollectObject.cs" />
+     <Compile Include="Assets\Scripts\DestroyObject.cs" />
+     <Compile Include="Assets\Scripts\RotateObject.cs" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
   </ItemGroup>
   <ItemGroup>

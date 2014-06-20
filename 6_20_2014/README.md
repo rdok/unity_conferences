@@ -90,3 +90,27 @@ create simple object: game object -> cube -> f - zooom in. how to destroy thi sc
 
 	- protect code using 2dl.
 	- alchemy - game studio - multipath. sell the script you create for a game.
+
+
+11. rotate script.
+	public float speed = 50.0f;
+
+	void Update() { var spinAmount  = Time.deltaTime * speed; // delta time counts machinve frames 
+		transform.Rortate(0, spinAmount, 0)}
+
+12. collider. (will run only when it hits.) 
+		give second name. general name for apple.orange (fruits)  at the moment you can add only one name.
+
+
+		// drag scritp on first person..
+		click crube -- add tag - Add tag: 'ammo'
+		remember to select the new tag you create. 
+
+13. game boject -> cratea nother -> particles -> start life -> brin to one seconds emission -> 200, chang ecolor, chang erotation -> 
+
+ add code when hitting: Instantie(prefab, transofrm,.position, Quaternion.identity);
+ need tweek -> create empty object (placeholder -- rottation z, 0, , make particle a child of this placeholder.--> span on game object emition druate -200, clidk an ddrag on game boject (particle underl placeholder.))
+
+ 14. drag and rop objec to assets the GameObject.
+ 	(reacp: drag particle, to object. delte form system. go to script and write instnaitet 
+ 	go to first person, and drag ad drop to the script the placehholder object)

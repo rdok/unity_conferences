@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class destroyObject : MonoBehaviour {
+public class DestroyObject : MonoBehaviour {
 	public float lifeTime = 5f;
 
 	// Use this for initialization
