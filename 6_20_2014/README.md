@@ -52,3 +52,15 @@ Rules
   -- assets -> import package -> terrain assets. -> edit texture add texture -> NOT a normal map. textures. then choose cliff texture. 
   - bush to paint up (first on bar this texture apply o all terrian. (add texture, select sand, add then click on sand (blue line on the bottom) then start painting apint a little the hills.  Add texture, grass hill. then select the grass and start using it.   -- choose bruch 1, 5 row) - brush size )
   - paint texutre : paint brush - 4th tools. add textures, pick texture you want and select add..  The first texgture you applly will go to all terrain. 
+
+ 7. create hero, put character above feild, create light.   play mode  will ot store any changes!!!! YOU HAVE TO STOP the game.
+ -> gamme objects -> create other -> directional light. 
+ 	-> rotate light, actie shaddows after selecting light. (shadoes sfere  
+ 	TOOL: (maximize viewpost _ shift + space bar))
+
+ 	RECAPR: assets folder -> character cotnrol, select first person & drag it to tyyour scene -> select f to focus on the rpoject, and move it on top of the island. 
+ 	-> game orject, create other, directoioanl light, from to ternity. --> select hard shadows, - intenity -> 1. 
+
+8. create trees & sky.
+- assets -> import package -> skybox -> library -> import all. (library of different sky boxes) click on sky box on assets, ch
+ - edit -> reneder settings -> skybox material -> (now it's none) -> click on circle with '.' click select your sky preferences) then press play- test with with play & quiz.
