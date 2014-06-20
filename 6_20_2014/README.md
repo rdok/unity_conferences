@@ -114,3 +114,12 @@ create simple object: game object -> cube -> f - zooom in. how to destroy thi sc
  14. drag and rop objec to assets the GameObject.
  	(reacp: drag particle, to object. delte form system. go to script and write instnaitet 
  	go to first person, and drag ad drop to the script the placehholder object)
+
+ 15. Export: file -> buld settings -> add current. ((tomorrow multipel scenes) target windows -> player settings -> drag and rop your own icons -> full screen, icon, splash image, tomorrow -> over what's dynamic basting -. drawcalls, fil rate, performance. 
+
+ 	build & run.   test for desktop.  (future every package will be mobile & desk)
+ 	tomorow: contanct info.
+
+
+ 	check internet & download asset.
+ 	proseleusi aptis 9:00
