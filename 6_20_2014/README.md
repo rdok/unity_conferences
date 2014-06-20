@@ -68,3 +68,25 @@ Rules
  - double on terrain, then 5th setting -. trees - (no trees defined) edit trees, add trees, browser, add tree,  then pain. (shift and paitn -- removes)
 
  - ave project, then save scene. (when you project -- sets all up fo ryour & while sence (you can mutliple - levels) save scene as (001)you'll rarely gonna save projects. )
+
+
+ 
+9. Scripting.
+create simple object: game object -> cube -> f - zooom in. how to destroy thi scube. a script is needed.
+	 - Create -> Any professional game studio will use C#;  all the maunual are in c#.
+	 - open script - monodevelop    (tomorrow will also cover art side -- you can a step further)
+	 - start() will redner first object in scene.  (help -> unit manualy -> destroy -> object destryo -> take example - show c#  copyy destory ojbect after 10 seconds. (Destory(gameObject, 5);))
+	 	-take script and drag to the object you want to destroy.  (it rmoves from the memory - there exist a profileer - check cpu, gput, memory, physics, 2d, etc... )  (if you connect to  a device you can profile to the devce)
+
+	recap: crate -> c# -> open it ->  at void start: Destroty (gameObject, 5); // destory after 5 seconds
+	drag it to your cube.
+
+
+	// creating terrains.(you can use terrains from different pieces -- e.g. from maja take terrain with no trees and trees from other.)
+
+10. public - chnages from gui - setting seconds from UI.
+	modify script: add: public float lifeTime = 5f;
+	// ctrl + r = refresh.
+
+	- protect code using 2dl.
+	- alchemy - game studio - multipath. sell the script you create for a game.
