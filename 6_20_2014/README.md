@@ -64,3 +64,7 @@ Rules
 8. create trees & sky.
 - assets -> import package -> skybox -> library -> import all. (library of different sky boxes) click on sky box on assets, ch
  - edit -> reneder settings -> skybox material -> (now it's none) -> click on circle with '.' click select your sky preferences) then press play- test with with play & quiz.
+
+ - double on terrain, then 5th setting -. trees - (no trees defined) edit trees, add trees, browser, add tree,  then pain. (shift and paitn -- removes)
+
+ - ave project, then save scene. (when you project -- sets all up fo ryour & while sence (you can mutliple - levels) save scene as (001)you'll rarely gonna save projects. )
