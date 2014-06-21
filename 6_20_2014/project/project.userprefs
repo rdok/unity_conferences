@@ -1,10 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CollectObject.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\6_21_2014\game\Assets\Scripts\FlipIt.cs">
     <Files>
-      <File FileName="Assets\Scripts\RotateObject.cs" Line="16" Column="22" />
-      <File FileName="Assets\Scripts\DestroyObject.cs" Line="17" Column="1" />
-      <File FileName="Assets\Scripts\CollectObject.cs" Line="19" Column="28" />
+      <File FileName="..\..\6_21_2014\game\Assets\Scripts\FlipIt.cs" Line="8" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

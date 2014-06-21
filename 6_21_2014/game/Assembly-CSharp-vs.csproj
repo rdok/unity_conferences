@@ -46,7 +46,11 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Characterfinal.cs" />
+     <Compile Include="Assets\Scripts\Characterstart.cs" />
      <Compile Include="Assets\Scripts\FlipIt.cs" />
+     <Compile Include="Assets\Scripts\Respawn.cs" />
+     <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

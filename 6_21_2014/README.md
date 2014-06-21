@@ -150,7 +150,38 @@ little speech, welcoming.
 	-> set parent. (bottom on animation, click on red dot change to curves to free smotth. ). create empty object, put it toreset it.  duplicate parent. 
 	-> drag and drop yeti.
 	select 5 - 10, drag and rename to idle. recap: folder, yeti, dragn and rop to assets. select yeti from 1 - 6. drag to unity call it idle. add component. add physics2d, rigidbody. 
+ 
+10. Add colliders to all terrains. all physics2d
 
+11. prehabs.
+	drag and drop an object ot assets. after change this prehab, and checka pply all objects creatd from this prehab will also change.
+
+12. jump on terrains.
+
+13. select bacgrkound, on 3d mode. scale it, move it far away. set renderin to foreground for new tree if add. add tree  on foregound max.  render of yeti to two.
+
+recap: go to 23d mode, select all backgrounds, move them, scale them, imort new large tree, scale it large, go to 3d mode, move it forwards
+
+14. background move slower.
+
+15. sound.
+	drag and drop
+	.reate empty object, with button.  drag and rop audio file  to game object. untick  3d sounds. press apply.
+
+16. animator.
+	animator, transition.
+	select animator pics, drag and drop. delete this animation. select yeti  -> windows -> animator -> drag and drop animation created.
+
+	17. animation grigger.
+ selecting animtion -> sele
+ 	recap: import script - characte final. on yeti replace with final script (gear - remove compoent).  go to animator area, create parameter, start & jump of type trigger. click on line. specify with what they are triggered. make usure they are triggered with capitcal letters.
+
+
+ 18. reset game
+ 	tirgger box. 
+ 		-> game boejct, create trigger, scale it., go to mesh redner, untick. , add physic 2d box collider.
+
+ 	-> select yeti. tag player. respanw box. 
 # 14.30-16.00	Unity Hands-on part 2
 
 # 16.15-18.00	Unity Hands-on part 3
