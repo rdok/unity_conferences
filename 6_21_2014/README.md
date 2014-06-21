@@ -194,9 +194,13 @@ high demnad with low devices.
 
 
 21. gui textt.
+	create gui text, and add script for score to each rocket.
+
 
 # 14.30-16.00	Unity Hands-on part 2
 
 # 16.15-18.00	Unity Hands-on part 3
 
 # 18.15-20.00	Unity Hands-on part 4
+
+proseleueeis 10 - 11.

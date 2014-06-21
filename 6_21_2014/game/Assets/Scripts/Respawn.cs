@@ -12,6 +12,8 @@ public class Respawn : MonoBehaviour
 		if(col.gameObject.tag == "Player")
 			// ... reload the level.
 			Application.LoadLevel(Application.loadedLevel);
+
+		//PlayerPrefs.SetInt ("score", score);
 		// Otherwise...
 		else
 		{
