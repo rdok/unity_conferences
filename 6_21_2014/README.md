@@ -196,11 +196,16 @@ high demnad with low devices.
 21. gui textt.
 	create gui text, and add script for score to each rocket.
 
-
-# 14.30-16.00	Unity Hands-on part 2
-
-# 16.15-18.00	Unity Hands-on part 3
-
-# 18.15-20.00	Unity Hands-on part 4
-
 proseleueeis 10 - 11.
+
+
+MECHANIM. examples. idea of game. (h second person. story)  (mixmo - provides animations.)  (kinect)
+
+https://unit3d.com/gamejams/unity-and-windows-hackathon
+
+
+22. loop: re-use objects. moving. pull objects.
+put script:   (on trigger enter, )
+- don't use endler runner. use insead pull/mov eobjects. 
+
+static batching. renders mateirals not moving only once. greater performance. 
