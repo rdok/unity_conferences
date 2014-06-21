@@ -182,6 +182,9 @@ recap: go to 23d mode, select all backgrounds, move them, scale them, imort new 
  		-> game boejct, create trigger, scale it., go to mesh redner, untick. , add physic 2d box collider.
 
  	-> select yeti. tag player. respanw box. 
+
+ 19. pick up. add item, ad box collider, 2d, add trigger. for pickup. 
+ 	import rocekts, drag and drop, rotate it, add physic 2d, box collider, add sciprt pickpup, set ti trigger, 
 # 14.30-16.00	Unity Hands-on part 2
 
 # 16.15-18.00	Unity Hands-on part 3

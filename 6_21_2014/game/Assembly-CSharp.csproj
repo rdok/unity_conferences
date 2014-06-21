@@ -49,6 +49,7 @@
      <Compile Include="Assets\Scripts\Characterfinal.cs" />
      <Compile Include="Assets\Scripts\Characterstart.cs" />
      <Compile Include="Assets\Scripts\FlipIt.cs" />
+     <Compile Include="Assets\Scripts\Pickup.cs" />
      <Compile Include="Assets\Scripts\Respawn.cs" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
   </ItemGroup>

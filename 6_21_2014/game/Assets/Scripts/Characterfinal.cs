@@ -5,7 +5,7 @@ public class Characterfinal : MonoBehaviour
 {
 
 	public bool jump = false;				// Condition for whether the player should jump.	
-	//public AudioClip[] jumpClips;			// Array of clips for when the player jumps.
+	public AudioClip[] jumpClips;			// Array of clips for when the player jumps.
 	public float jumpForce = 1000f;			// Amount of force added when the player jumps.
 	private bool grounded = false;			// Whether or not the player is grounded.
 	private Animator anim;					// Reference to the player's animator component.
@@ -42,8 +42,8 @@ public class Characterfinal : MonoBehaviour
 				grounded = false;
 				anim.SetTrigger("Jump");
 				// Play a random jump audio clip.
-				//int i = Random.Range(0, jumpClips.Length);
-				//AudioSource.PlayClipAtPoint(jumpClips[i], transform.position);
+				int i = Random.Range(0, jumpClips.Length);
+				AudioSource.PlayClipAtPoint(jumpClips[i], transform.position);
 				}
 			    // if the game is set now to start the character will start to run forward in the FixedUpdate
 				else
