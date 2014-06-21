@@ -115,9 +115,15 @@ little speech, welcoming.
 3. camera 
 	-> chang eto perspectives. -> click on 2D, and holding alt lo
 	ok around., then click on blue axe, and move forwards, backwwrd. problem,, trees goes back and forwards, bug. 
+	
+4. Layers
 	-> solution to bug: creat layers. make firt layer, then put your object there. how od you create layer: up right: layers -> eid layers -> sortin layers ->  click on plus button -> background, level, fouregrounds. the lower the more front in the camera. (everyting you create goes in the bacgkround :( ) picking object, chang elayer to bak) (shift to mutliselect -> level).  change layer of each object accordinlgy. CAREFUL. layer. defautl movement layer forward. 
 	recap -> layers, edit layer, add layers (back, leve, etc.) -> 
-	
+
+5. Change colors & locking object.
+	-> select backgrond and change color.
+	-> lock background -> layers -> lock background. (you can't select them anmore -> focus on wha tyou want to work)
+
 # 12.00-13.30	Unity Hands-on part 1
 
 # 14.30-16.00	Unity Hands-on part 2
