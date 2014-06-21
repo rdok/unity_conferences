@@ -97,7 +97,20 @@ http:aka.ms/unitygrfiles
 Dr. Triant Flouris, Provost of Hellenic American University
 little speech, welcoming. 
 
+## Steps.
+1. Create project.
+	- File -> new project -> select package ->  change to 3D (even though it's 2d) -> create.
+	- windows -> layout -> 2 by 3..
+	-> change to 2D mode.
 
+2. Importing.
+	- export/unzip 2D contents -> sprints01 -> find image called: big_island_hill -> drag and drop -> Assets folder.
+	- assets is the folder where ou store your objects, desings, and code. 
+	- use spring better performance. automatically import as sprite. (edit -> editor -> default behavior -from 3D to 2D. then gdrag and drop whole foldersprints01 ) (everything is automtcally is stted as sprites.
+	- drag and drop flag. (scale -> select image-> seelct 5th option -> scale) create first level.
+
+	recap: edit-> project settings -> editor-> behavior mode to 2D, then drag and drop thei whole folder to assets.
+	drag and drop flat istland, and scale accrodinly. 
 # 12.00-13.30	Unity Hands-on part 1
 
 # 14.30-16.00	Unity Hands-on part 2
