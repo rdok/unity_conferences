@@ -14,8 +14,8 @@ public class Pickup : MonoBehaviour
 		
 		{
 			Destroy (gameObject);	
-			score++;
-			guiText.text = "Points: " + score + "/8";
+			score += 10;
+			guiText.text = "Points: " + score;
 		}
 
 	}

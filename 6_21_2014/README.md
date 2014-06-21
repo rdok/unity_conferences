@@ -185,6 +185,16 @@ recap: go to 23d mode, select all backgrounds, move them, scale them, imort new 
 
  19. pick up. add item, ad box collider, 2d, add trigger. for pickup. 
  	import rocekts, drag and drop, rotate it, add physic 2d, box collider, add sciprt pickpup, set ti trigger, 
+
+ 20. optimization for sprite. 
+
+ "the more you understand optimization the better you develop.""
+
+high demnad with low devices.
+
+
+21. gui textt.
+
 # 14.30-16.00	Unity Hands-on part 2
 
 # 16.15-18.00	Unity Hands-on part 3
