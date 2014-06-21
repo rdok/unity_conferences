@@ -122,9 +122,34 @@ little speech, welcoming.
 
 5. Change colors & locking object.
 	-> select backgrond and change color.
-	-> lock background -> layers -> lock background. (you can't select them anmore -> focus on wha tyou want to work)
+	-> lock background -> layers -> lock background. (you can't select them anmore -> focus on wha tyou want to workups. bug-> delete  it. select again. change to multiple. edit. cut -> automatic sslice.  -> apply. !! -> change texture size -> to list. open bird. you'll see each indidiual image.  seelct them all (use shift), drag to scene -> rename to flying_bird. 
+	-> careful. careful to stop game first, after edit. 
+	-> edit preferences -> chagne color to daker.
+	-> background color change -> camera -> color.
 
+6. Bird animation. 
+	-> take image and drag it. 
+
+7. Quicke aimation. 
+	->. areful animation(create and change) is different animtor defines which plays at time.
+	-> drag animation to dock, change times. loop, change speed, preview.
+	-> recap -. select bird, edit, window -> aniation, drag speed, change sampel two 24
 # 12.00-13.30	Unity Hands-on part 1
+
+8. Animation - oop
+	-> create empty object.  (placeholder). 
+	-> select color change to button. click to animation. frame 5 second, scroll.  then move object. select paly. 
+	-> attach brid: select bird and drag after gameobject. 
+	-> RECAP: create empty objct -> palce iti on map -> clic on cion -. convert to button ->keyframe animation. erenmae to parente_brid, animation. five second time line  select red line -> move boject to where you rwant  move the bird.  -> drag bird to parent -> reset positino use gear. 
+
+
+9. Animatino - brid loop & flip.
+	-> use script, to scale accordinly..  (script flip.)
+
+	-> recap: drag and drop flip script to parent of bird. not bird!.  go to timeline andand add function at 0, and 10seconds. 
+	-> set parent. (bottom on animation, click on red dot change to curves to free smotth. ). create empty object, put it toreset it.  duplicate parent. 
+	-> drag and drop yeti.
+	select 5 - 10, drag and rename to idle. recap: folder, yeti, dragn and rop to assets. select yeti from 1 - 6. drag to unity call it idle. add component. add physics2d, rigidbody. 
 
 # 14.30-16.00	Unity Hands-on part 2
 
