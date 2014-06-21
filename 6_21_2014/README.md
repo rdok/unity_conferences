@@ -5,6 +5,7 @@ This session is for beginners and intermediate user. We will cover on how to mak
 ## Jaime Rodriguezs
 Principal Program Manager, Microsoft Corp
 
+
 # 10.00-11.40	Opening Keynote
 
 - wokring on windows fo rmore than 10 yerrs. stron gpreseence with games. Ove th last 4 hours they've working hard. There has never been a better time to write a game. We've gone to the point of writing one game for mulitple devices.
@@ -47,9 +48,55 @@ Microsoft & Unity - powerful partnerhsip -- free!! (you need to pay 500E for iOS
 
 whilepapers: http://unity3d.com/pages
 
-# 11.40-11.45	Welcome address
 
+
+
+
+
+
+
+# Carl Callewaert starts talk. (11:00)
+http://aka.ms/unitygrfiles
+http://ww5.unit3d.com/gamejams/unity-and-windows-hackathon
+
+- live in canda, he's rarely there. (full of snow).  
+- used to work in game production. various games. true pation: make games on his own. discovered unity through students. his first app: a sign hand.  
+- unity is also used for work. doctor: needs to score first before he touches u. :P. 
+- NASA uses Unity. 
+	26 * 10 ^ 5 developers.
+	6 * 10 ^ 5 monthly active.
+
+- Community:
+	assets store.
+- unity 5 - feature preview.
+
+- diffuses, new shader - universal.various technques. 
+	most important and interesting: new tehcnologies (lights), real time 
+- amazing fps on web browser.
+-mechanim? (whish animaiton should play when) - face animation.
+- improved sound edit tools.
+
+- Unite 2014 in Seattle. (3days -- trainning stuff.)
+	porting camp. (people of windows rockstart)
+
+
+email: carl@unit3d.com  << especially if you make a game!!!! he has a policy of never leaving more than 50emails unread.  (he has contact with linked, and others.)
+
+http:aka.ms/unitygrfiles
+
+
+1. game to create: loop, jump through kena
+2. excited: microsoft & unity. you don't any hassle to export to windows.
+
+
+# PART ONE DONE.
+
+
+
+# 11.40-11.45	Welcome address
 Dr. Triant Flouris, Provost of Hellenic American University
+little speech, welcoming. 
+
 
 # 12.00-13.30	Unity Hands-on part 1
 
